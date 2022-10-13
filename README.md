@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thyago Mendes</h1>
+<h1 align="center">Hi 👋🏻, I'm Thyago Mendes</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <h4 align="center"><img align="center" src="https://cdn.dribbble.com/users/1252083/screenshots/5493880/illustration_style_1-02.jpg" alt="thyagomendes"  height="450" width="600"/></h4>
