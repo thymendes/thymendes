@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thyago Mendes</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<img align="center" src="https://cdn.dribbble.com/users/1252083/screenshots/5493880/illustration_style_1-02.jpg" alt="thyagomendes"  height="450" width="600"/>
+<h4 align="center"><img align="center" src="https://cdn.dribbble.com/users/1252083/screenshots/5493880/illustration_style_1-02.jpg" alt="thyagomendes"  height="450" width="600"/></h4>
+</p>
+
+
 
 - 🤓 Recently graduated in Systems Analysis and Development, I have just over 3 years of experience in web development using HTML, CSS, Javascript and Wordpress. I come from the advertising area where I worked in the digital sector of advertising agencies building blogs, landing pages and websites. I also develop personal projects in React, Typescript and NextJs.
 
